@@ -17,21 +17,11 @@ Welcome to my GitHub! I'm a passionate full stack developer working with **JavaS
 
 ---
 
-### 🌟 Featured Projects
-
-- 🚧 _Add your favorite or pinned repositories here!_
-- 💡 _Showcase open source contributions, side projects, or professional work_
-- 🔗 _[Project Name](https://github.com/NicolasCastela/project-name)_
-
----
-
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/NicolasCastela)
-- [Twitter](https://twitter.com/NicolasCastela)
-- [Portfolio](https://NicolasCastela.com)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-castela)
 - [GitHub](https://github.com/NicolasCastela)
-
+  
 ---
 
 ### 🧑‍💻 About Me
@@ -40,14 +30,6 @@ Welcome to my GitHub! I'm a passionate full stack developer working with **JavaS
 - 🌱 Lifelong learner, constantly exploring new tech
 - 🛠️ Clean code enthusiast & agile team player
 - 🎯 Focused on delivering impactful solutions
-
----
-
-### ⚡ Fun Facts
-
-- I love solving puzzles and algorithmic challenges
-- Coffee fuels my code ☕
-- When not coding, you’ll find me exploring tech trends or hiking
 
 ---
 
